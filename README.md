@@ -14,7 +14,7 @@
 - Tailwind CSS
 - HTML / CSS
 - SQL / MySQL
-- AWS (Basics)
+- AWS
 
 ---
 
